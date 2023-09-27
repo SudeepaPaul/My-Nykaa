@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,400;1,400&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.signinbtn{
+   color: white;
+}
+.signinbtn:hover {
+    opacity: 0.8;
+}
+body{
+    font-family: 'Work Sans', sans-serif;
+
+}
+.nykalogo{
+    height: 30px;
+    width: auto;
+}
+.shopbag{
+    width: 25px;
+    height: auto;
+}
+a{
+    width: max-content;
+    height: auto;
+}
+.cateheading{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.catesec{
+    text-align: center;
+    padding-left: 110px;
+}
+.card-pict{
+    height: 220px;
+    width: 230px;
+    padding-right: 40px;
+}
+.catename{
+    padding-left: 60px;
+}
+.catesec1{
+    text-align: center;
+    padding-left: 110px;
+}
+.brandhead{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+.brand-pict{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+.brandoff{
+    font-style: oblique;
+    text-align: center;
+}
+.pocket1{
+    width: 279px;
+    height: 270px;
+}
+.pocket2{
+    width: auto;
+    height: auto;
+}
+.pocket3{
+    width: auto;
+    height: auto;
+    padding-left: 21px;
+}
+.pocket4{
+    width: auto;
+    height: auto;
+    padding-left: 42px;
+}
+.shopproduct{
+   padding-top: 80px;
+   padding-left: 270px; 
+   padding-bottom: 50px;
+}
+.sub-footer{
+    text-decoration: none;
+    color: whitesmoke;
+}
